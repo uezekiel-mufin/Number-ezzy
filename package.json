@@ -1,11 +1,9 @@
 {
-  "name": "NUMBERS-DATES-TIMERS-BANKIST",
   "version": "1.0.0",
   "description": "Banking App",
-  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dir"
+    "build": "parcel build index.html"
   },
   "devDependencies": {
     "parcel": "^2.2.1"
