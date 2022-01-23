@@ -206,8 +206,10 @@ btnSort.addEventListener('click', function(e) {
     e.preventDefault();
     displayMovements(currentAccount.movements, !sorted);
     sorted = !sorted;
-}); /////////////////////////////////////////////////
- /////////////////////////////////////////////////
- // LECTURES
+});
+/////////////////////////////////////////////////
+/////////////////////////////////////////////////
+// LECTURES
+console.log('Welcome to Bankist');
 
 //# sourceMappingURL=index.672d4772.js.map
